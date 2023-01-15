@@ -1,0 +1,21 @@
+# generated from manifests external_dependencies
+chardet
+cryptography==38.0.0
+pycountry
+qrcode
+requests==2.26.0
+requests_pkcs12
+suds-py3
+unidecode
+xmlsig
+xmltodict
+zeep
+lxml
+python-stdnum
+openpyxl
+xlrd
+xlsxwriter
+pdf2image
+pyzbar
+mock
+odoo-test-helper
